@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ashis Kumar Maharana
-- 👀 I’m interested in front-end and full stack development 
-- 🌱 I’m currently learning Salesforce and Lightning Framework
-- 💞️ I’m looking to collaborate on lightning web component
-- 📫 How to reach me [twitter](https://twitter.com/ashis_maharana)
+- 👋 Howdy, I’m Houdine Hattrick (alias)
+- 👀 I’m interested in disguising myself
+- 🌱 I’m currently learning how to become anonymous
+- 💞️ I’m looking to collaborate on privacy
+- 📫 How to reach me [twitter](https://twitter.com/hattrick__houdine)
 
 <!---
 theyolkster/theyolkster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
